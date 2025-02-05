@@ -1,0 +1,18 @@
+# Основные инструменты
+nikto
+nmap
+curl
+jq
+
+# Утилиты для работы с логами
+grep
+awk
+sort
+uniq
+
+# Дополнительные инструменты
+aircrack-ng
+masscan
+
+# Цветной вывод
+coreutils
