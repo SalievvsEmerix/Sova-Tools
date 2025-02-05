@@ -33,3 +33,9 @@
 ```bash
 git clone https://github.com/SalievvsEmerix/Sova-Tools.git
 cd Sova-Tools
+
+### 2. Установите зависимости
+Убедитесь, что у вас установлены все необходимые инструменты:
+```bash
+sudo apt update
+sudo apt install $(cat kali_requirements.txt)
